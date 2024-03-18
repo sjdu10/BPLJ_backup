@@ -1,0 +1,210 @@
+T=0.3, Entropy = 1.1595649330762685, Converged=True, damping=0.4, density N/V=0.0028490427422903338, chemical potential=-2.0
+T=0.3, Entropy = 1.6263759947633463, Converged=True, damping=0.4, density N/V=0.004016354438564811, chemical potential=-1.9
+T=0.3, Entropy = 2.2858431195886495, Converged=True, damping=0.4, density N/V=0.00568605653332511, chemical potential=-1.7999999999999998
+T=0.3, Entropy = 3.2223566435883604, Converged=True, damping=0.4, density N/V=0.008100114387064644, chemical potential=-1.6999999999999997
+T=0.3, Entropy = 4.562631127026548, Converged=True, damping=0.4, density N/V=0.011646856199955815, chemical potential=-1.5999999999999996
+T=0.3, Entropy = 6.503459693376442, Converged=True, damping=0.4, density N/V=0.016988981578054584, chemical potential=-1.4999999999999996
+T=0.3, Entropy = 9.36714663158746, Converged=True, damping=0.4, density N/V=0.025369754355781156, chemical potential=-1.3999999999999995
+T=0.3, Entropy = 13.731285333939155, Converged=True, damping=0.4, density N/V=0.03952071610696944, chemical potential=-1.2999999999999994
+T=0.3, Entropy = 20.83182905957027, Converged=True, damping=0.4, density N/V=0.06765965511916859, chemical potential=-1.1999999999999993
+T=0.3, Entropy = 35.585429655567864, Converged=True, damping=0.4, density N/V=0.20142470896202164, chemical potential=-1.0999999999999992
+T=0.3, Entropy = 84.13968158885727, Converged=False, damping=0.4, density N/V=0.45543851287757964, chemical potential=-0.9999999999999991, Not Converged!
+T=0.3, Entropy = 167.31396554546285, Converged=False, damping=0.4, density N/V=0.46338629512204876, chemical potential=-0.899999999999999, Not Converged!
+T=0.3, Entropy = 198.534775506686, Converged=False, damping=0.4, density N/V=0.5078247815277067, chemical potential=-0.7999999999999989, Not Converged!
+T=0.3, Entropy = 299.09855714938345, Converged=False, damping=0.4, density N/V=0.677020418705391, chemical potential=-0.6999999999999988, Not Converged!
+T=0.3, Entropy = 391.246294191466, Converged=False, damping=0.4, density N/V=0.744258097419167, chemical potential=-0.5999999999999988, Not Converged!
+T=0.3, Entropy = 512.3787891382442, Converged=False, damping=0.4, density N/V=0.7350822032573067, chemical potential=-0.49999999999999867, Not Converged!
+T=0.3, Entropy = 633.5400136318722, Converged=False, damping=0.4, density N/V=0.83116792010383, chemical potential=-0.3999999999999986, Not Converged!
+T=0.3, Entropy = 670.3128852120284, Converged=False, damping=0.4, density N/V=0.7653733874557709, chemical potential=-0.2999999999999985, Not Converged!
+T=0.3, Entropy = 693.2893429803514, Converged=False, damping=0.4, density N/V=0.8842493581619961, chemical potential=-0.1999999999999984, Not Converged!
+T=0.3, Entropy = 959.5324992047819, Converged=False, damping=0.4, density N/V=0.8691400911479357, chemical potential=-0.09999999999999831, Not Converged!
+T=0.3, Entropy = 1321.9973096930157, Converged=False, damping=0.4, density N/V=0.9739371265934648, chemical potential=1.7763568394002505e-15, Not Converged!
+T=0.3, Entropy = 1189.4448004651163, Converged=False, damping=0.4, density N/V=0.8829739157148225, chemical potential=0.10000000000000187, Not Converged!
+T=0.3, Entropy = 1288.2527641905172, Converged=False, damping=0.4, density N/V=0.9456868702340947, chemical potential=0.20000000000000195, Not Converged!
+T=0.3, Entropy = 1358.3253915227363, Converged=False, damping=0.4, density N/V=1.0110960637684867, chemical potential=0.30000000000000204, Not Converged!
+T=0.3, Entropy = 1580.5615192483247, Converged=False, damping=0.4, density N/V=1.0819612285569191, chemical potential=0.40000000000000213, Not Converged!
+T=0.3, Entropy = 1680.3666875962776, Converged=True, damping=0.4, density N/V=1.0854784655900271, chemical potential=0.5000000000000022
+T=0.3, Entropy = 1829.617303068063, Converged=True, damping=0.4, density N/V=1.0874677484841488, chemical potential=0.6000000000000023
+T=0.3, Entropy = 1979.0940809612518, Converged=True, damping=0.4, density N/V=1.0888185479981327, chemical potential=0.7000000000000024
+T=0.3, Entropy = 2128.725803842083, Converged=True, damping=0.4, density N/V=1.0897519466995094, chemical potential=0.8000000000000025
+T=0.3, Entropy = 2278.4651950885896, Converged=True, damping=0.4, density N/V=1.0904041312096664, chemical potential=0.9000000000000026
+T=0.4, Entropy = 6.278573971569359, Converged=True, damping=0.4, density N/V=0.015784854868886734, chemical potential=-2.0
+T=0.4, Entropy = 8.145667480434776, Converged=True, damping=0.4, density N/V=0.02070103071848271, chemical potential=-1.9
+T=0.4, Entropy = 10.602633464392346, Converged=True, damping=0.4, density N/V=0.027335397737597095, chemical potential=-1.7999999999999998
+T=0.4, Entropy = 13.862299047037103, Converged=True, damping=0.4, density N/V=0.03643956492138006, chemical potential=-1.6999999999999997
+T=0.4, Entropy = 18.23644120310844, Converged=True, damping=0.4, density N/V=0.049229483170109785, chemical potential=-1.5999999999999996
+T=0.4, Entropy = 24.202679243718432, Converged=True, damping=0.4, density N/V=0.06780993467803018, chemical potential=-1.4999999999999996
+T=0.4, Entropy = 32.53867113597801, Converged=True, damping=0.4, density N/V=0.09613499171325081, chemical potential=-1.3999999999999995
+T=0.4, Entropy = 44.60886614836291, Converged=True, damping=0.4, density N/V=0.14210733741629786, chemical potential=-1.2999999999999994
+T=0.4, Entropy = 62.87374139792642, Converged=True, damping=0.4, density N/V=0.21839609619132505, chemical potential=-1.1999999999999993
+T=0.4, Entropy = 90.56746458961041, Converged=True, damping=0.4, density N/V=0.3210853667673437, chemical potential=-1.0999999999999992
+T=0.4, Entropy = 128.85381406363817, Converged=True, damping=0.4, density N/V=0.41971285700676586, chemical potential=-0.9999999999999991
+T=0.4, Entropy = 176.47156943173923, Converged=True, damping=0.4, density N/V=0.5019701513280048, chemical potential=-0.899999999999999
+T=0.4, Entropy = 231.7758431146709, Converged=True, damping=0.4, density N/V=0.5695019620455464, chemical potential=-0.7999999999999989
+T=0.4, Entropy = 293.57176227335486, Converged=False, damping=0.4, density N/V=0.6211069225484014, chemical potential=-0.6999999999999988, Not Converged!
+T=0.4, Entropy = 326.79042718866464, Converged=False, damping=0.4, density N/V=0.6597158107644039, chemical potential=-0.5999999999999988, Not Converged!
+T=0.4, Entropy = 419.7131527910554, Converged=False, damping=0.4, density N/V=0.7633059032641154, chemical potential=-0.49999999999999867, Not Converged!
+T=0.4, Entropy = 492.7761220127588, Converged=False, damping=0.4, density N/V=0.7186072998365693, chemical potential=-0.3999999999999986, Not Converged!
+T=0.4, Entropy = 538.9096253680682, Converged=False, damping=0.4, density N/V=0.7726489335285811, chemical potential=-0.2999999999999985, Not Converged!
+T=0.4, Entropy = 660.4638198309111, Converged=False, damping=0.4, density N/V=0.8053179328234463, chemical potential=-0.1999999999999984, Not Converged!
+T=0.4, Entropy = 722.1717620971691, Converged=False, damping=0.4, density N/V=0.8382024699749434, chemical potential=-0.09999999999999831, Not Converged!
+T=0.4, Entropy = 818.3732402775598, Converged=False, damping=0.4, density N/V=0.9045163478869328, chemical potential=1.7763568394002505e-15, Not Converged!
+T=0.4, Entropy = 905.2228151231612, Converged=False, damping=0.4, density N/V=0.9214122577167604, chemical potential=0.10000000000000187, Not Converged!
+T=0.4, Entropy = 1019.5555256411177, Converged=False, damping=0.4, density N/V=0.9424959226140939, chemical potential=0.20000000000000195, Not Converged!
+T=0.4, Entropy = 1049.0754923997697, Converged=False, damping=0.4, density N/V=0.9114039736619146, chemical potential=0.30000000000000204, Not Converged!
+T=0.4, Entropy = 1203.8918449724802, Converged=False, damping=0.4, density N/V=0.9511024348385221, chemical potential=0.40000000000000213, Not Converged!
+T=0.4, Entropy = 1165.9803643168789, Converged=False, damping=0.4, density N/V=0.9444546265283487, chemical potential=0.5000000000000022, Not Converged!
+T=0.4, Entropy = 1320.1790426215225, Converged=False, damping=0.4, density N/V=0.9422864009782403, chemical potential=0.6000000000000023, Not Converged!
+T=0.4, Entropy = 1488.3256804897221, Converged=True, damping=0.4, density N/V=1.0793767250928292, chemical potential=0.7000000000000024
+T=0.4, Entropy = 1564.081512065517, Converged=False, damping=0.4, density N/V=1.0569384836291122, chemical potential=0.8000000000000025, Not Converged!
+T=0.4, Entropy = 1711.318730492866, Converged=True, damping=0.4, density N/V=1.0846269051934165, chemical potential=0.9000000000000026
+T=0.5, Entropy = 17.40004087003337, Converged=True, damping=0.4, density N/V=0.044570721892423865, chemical potential=-2.0
+T=0.5, Entropy = 21.516905635543385, Converged=True, damping=0.4, density N/V=0.055792679431602925, chemical potential=-1.9
+T=0.5, Entropy = 26.684577525254053, Converged=True, damping=0.4, density N/V=0.07022388134059539, chemical potential=-1.7999999999999998
+T=0.5, Entropy = 33.21005244165083, Converged=True, damping=0.4, density N/V=0.08895317625212833, chemical potential=-1.6999999999999997
+T=0.5, Entropy = 41.50541015851483, Converged=True, damping=0.4, density N/V=0.11345263220119704, chemical potential=-1.5999999999999996
+T=0.5, Entropy = 52.12013758028647, Converged=True, damping=0.4, density N/V=0.14556227915556197, chemical potential=-1.4999999999999996
+T=0.5, Entropy = 65.7588315904166, Converged=True, damping=0.4, density N/V=0.1870787487211661, chemical potential=-1.3999999999999995
+T=0.5, Entropy = 83.23273924880928, Converged=True, damping=0.4, density N/V=0.2385108674338588, chemical potential=-1.2999999999999994
+T=0.5, Entropy = 105.2843307708198, Converged=True, damping=0.4, density N/V=0.29750494313774756, chemical potential=-1.1999999999999993
+T=0.5, Entropy = 132.34832521477915, Converged=True, damping=0.4, density N/V=0.35928381053464875, chemical potential=-1.0999999999999992
+T=0.5, Entropy = 164.45796289521755, Converged=True, damping=0.4, density N/V=0.4193430792453128, chemical potential=-0.9999999999999991
+T=0.5, Entropy = 201.35213348148696, Converged=True, damping=0.4, density N/V=0.4751273255752058, chemical potential=-0.899999999999999
+T=0.5, Entropy = 242.63407497437686, Converged=True, damping=0.4, density N/V=0.5257726707346823, chemical potential=-0.7999999999999989
+T=0.5, Entropy = 287.87820234597643, Converged=True, damping=0.4, density N/V=0.5713261309453925, chemical potential=-0.6999999999999988
+T=0.5, Entropy = 336.6806646117209, Converged=True, damping=0.4, density N/V=0.6122041107850476, chemical potential=-0.5999999999999988
+T=0.5, Entropy = 388.67726745592546, Converged=True, damping=0.4, density N/V=0.648924179385467, chemical potential=-0.49999999999999867
+T=0.5, Entropy = 443.5464699113244, Converged=True, damping=0.4, density N/V=0.6819929885907862, chemical potential=-0.3999999999999986
+T=0.5, Entropy = 501.00654461410466, Converged=False, damping=0.4, density N/V=0.7118668224554693, chemical potential=-0.2999999999999985, Not Converged!
+T=0.5, Entropy = 566.8194364485878, Converged=False, damping=0.4, density N/V=0.7513686458772725, chemical potential=-0.1999999999999984, Not Converged!
+T=0.5, Entropy = 600.482649686364, Converged=False, damping=0.4, density N/V=0.7636116262537173, chemical potential=-0.09999999999999831, Not Converged!
+T=0.5, Entropy = 701.1832372396918, Converged=False, damping=0.4, density N/V=0.7440220874549033, chemical potential=1.7763568394002505e-15, Not Converged!
+T=0.5, Entropy = 743.6200356266562, Converged=False, damping=0.4, density N/V=0.8522403038655209, chemical potential=0.10000000000000187, Not Converged!
+T=0.5, Entropy = 813.7182670482445, Converged=False, damping=0.4, density N/V=0.8563728308695445, chemical potential=0.20000000000000195, Not Converged!
+T=0.5, Entropy = 919.5776721910053, Converged=False, damping=0.4, density N/V=0.8531229233969098, chemical potential=0.30000000000000204, Not Converged!
+T=0.5, Entropy = 960.1758166967429, Converged=False, damping=0.4, density N/V=0.8547588423130942, chemical potential=0.40000000000000213, Not Converged!
+T=0.5, Entropy = 990.7426257546656, Converged=False, damping=0.4, density N/V=0.8729471795122495, chemical potential=0.5000000000000022, Not Converged!
+T=0.5, Entropy = 1093.3150776369014, Converged=False, damping=0.4, density N/V=0.8972106419009834, chemical potential=0.6000000000000023, Not Converged!
+T=0.5, Entropy = 1119.944489075388, Converged=False, damping=0.4, density N/V=0.9243360994999263, chemical potential=0.7000000000000024, Not Converged!
+T=0.5, Entropy = 1286.3095495729922, Converged=True, damping=0.4, density N/V=1.0673052166484105, chemical potential=0.8000000000000025
+T=0.5, Entropy = 1374.4856511346127, Converged=True, damping=0.4, density N/V=1.0722209020026778, chemical potential=0.9000000000000026
+T=0.6000000000000001, Entropy = 33.979009202739306, Converged=True, damping=0.4, density N/V=0.08678363228093883, chemical potential=-2.0
+T=0.6000000000000001, Entropy = 40.517131049779294, Converged=True, damping=0.4, density N/V=0.10414888116114397, chemical potential=-1.9
+T=0.6000000000000001, Entropy = 48.36650396282525, Converged=True, damping=0.4, density N/V=0.12506364231410683, chemical potential=-1.7999999999999998
+T=0.6000000000000001, Entropy = 57.790492268255036, Converged=True, damping=0.4, density N/V=0.1500892914570563, chemical potential=-1.6999999999999997
+T=0.6000000000000001, Entropy = 69.08756419844458, Converged=True, damping=0.4, density N/V=0.17965996651229368, chemical potential=-1.5999999999999996
+T=0.6000000000000001, Entropy = 82.5762880434273, Converged=True, damping=0.4, density N/V=0.21389093799963663, chemical potential=-1.4999999999999996
+T=0.6000000000000001, Entropy = 98.56623047932422, Converged=True, damping=0.4, density N/V=0.2523770266797659, chemical potential=-1.3999999999999995
+T=0.6000000000000001, Entropy = 117.31855493811297, Converged=True, damping=0.4, density N/V=0.2941207366979183, chemical potential=-1.2999999999999994
+T=0.6000000000000001, Entropy = 139.00981939383195, Converged=True, damping=0.4, density N/V=0.33770481238267935, chemical potential=-1.1999999999999993
+T=0.6000000000000001, Entropy = 163.71465546839408, Converged=True, damping=0.4, density N/V=0.38164034205734104, chemical potential=-1.0999999999999992
+T=0.6000000000000001, Entropy = 191.41242049541276, Converged=True, damping=0.4, density N/V=0.42468126751432306, chemical potential=-0.9999999999999991
+T=0.6000000000000001, Entropy = 222.0097608201803, Converged=True, damping=0.4, density N/V=0.46596437599507357, chemical potential=-0.899999999999999
+T=0.6000000000000001, Entropy = 255.36702032593863, Converged=True, damping=0.4, density N/V=0.5049932887755514, chemical potential=-0.7999999999999989
+T=0.6000000000000001, Entropy = 291.32059647597106, Converged=True, damping=0.4, density N/V=0.5415504643784244, chemical potential=-0.6999999999999988
+T=0.6000000000000001, Entropy = 329.698756013786, Converged=True, damping=0.4, density N/V=0.5756021406565218, chemical potential=-0.5999999999999988
+T=0.6000000000000001, Entropy = 370.331537994147, Converged=True, damping=0.4, density N/V=0.6072232566698789, chemical potential=-0.49999999999999867
+T=0.6000000000000001, Entropy = 413.056337660999, Converged=True, damping=0.4, density N/V=0.6365463546458473, chemical potential=-0.3999999999999986
+T=0.6000000000000001, Entropy = 457.7206741384917, Converged=True, damping=0.4, density N/V=0.6637296495035417, chemical potential=-0.2999999999999985
+T=0.6000000000000001, Entropy = 504.18325053738096, Converged=True, damping=0.4, density N/V=0.688938297247152, chemical potential=-0.1999999999999984
+T=0.6000000000000001, Entropy = 552.3140367559031, Converged=True, damping=0.4, density N/V=0.7123339996586368, chemical potential=-0.09999999999999831
+T=0.6000000000000001, Entropy = 601.9938270523036, Converged=True, damping=0.4, density N/V=0.7340696621921929, chemical potential=1.7763568394002505e-15
+T=0.6000000000000001, Entropy = 653.1135416247048, Converged=True, damping=0.4, density N/V=0.7542870176356686, chemical potential=0.10000000000000187
+T=0.6000000000000001, Entropy = 705.5734280546927, Converged=True, damping=0.4, density N/V=0.7731159263934871, chemical potential=0.20000000000000195
+T=0.6000000000000001, Entropy = 759.283951202405, Converged=False, damping=0.4, density N/V=0.7906769942782776, chemical potential=0.30000000000000204, Not Converged!
+T=0.6000000000000001, Entropy = 819.5471782179061, Converged=False, damping=0.4, density N/V=0.8072046915451216, chemical potential=0.40000000000000213, Not Converged!
+T=0.6000000000000001, Entropy = 864.485973080786, Converged=False, damping=0.4, density N/V=0.8215884044147657, chemical potential=0.5000000000000022, Not Converged!
+T=0.6000000000000001, Entropy = 933.5309825243346, Converged=False, damping=0.4, density N/V=0.8357273815260595, chemical potential=0.6000000000000023, Not Converged!
+T=0.6000000000000001, Entropy = 974.6639332438692, Converged=False, damping=0.4, density N/V=0.8544197949804263, chemical potential=0.7000000000000024, Not Converged!
+T=0.6000000000000001, Entropy = 1062.748100379821, Converged=False, damping=0.4, density N/V=1.000415548574514, chemical potential=0.8000000000000025, Not Converged!
+T=0.6000000000000001, Entropy = 1154.15523064383, Converged=True, damping=0.4, density N/V=1.0525525777641627, chemical potential=0.9000000000000026
+T=0.7000000000000002, Entropy = 53.727080965915626, Converged=True, damping=0.4, density N/V=0.1334188581456836, chemical potential=-2.0
+T=0.7000000000000002, Entropy = 62.174943621869254, Converged=True, damping=0.4, density N/V=0.15401804888596432, chemical potential=-1.9
+T=0.7000000000000002, Entropy = 71.91358713731496, Converged=True, damping=0.4, density N/V=0.17728468556103483, chemical potential=-1.7999999999999998
+T=0.7000000000000002, Entropy = 83.101234843421, Converged=True, damping=0.4, density N/V=0.20323615189977662, chemical potential=-1.6999999999999997
+T=0.7000000000000002, Entropy = 95.89266755364068, Converged=True, damping=0.4, density N/V=0.2317323077591698, chemical potential=-1.5999999999999996
+T=0.7000000000000002, Entropy = 110.42918645737218, Converged=True, damping=0.4, density N/V=0.2624543824299351, chemical potential=-1.4999999999999996
+T=0.7000000000000002, Entropy = 126.82832730822254, Converged=True, damping=0.4, density N/V=0.29491962220003926, chemical potential=-1.3999999999999995
+T=0.7000000000000002, Entropy = 145.17560702002837, Converged=True, damping=0.4, density N/V=0.3285345893449656, chemical potential=-1.2999999999999994
+T=0.7000000000000002, Entropy = 165.52020786739624, Converged=True, damping=0.4, density N/V=0.36267171017456706, chemical potential=-1.1999999999999993
+T=0.7000000000000002, Entropy = 187.87523874179192, Converged=True, damping=0.4, density N/V=0.39674400090293366, chemical potential=-1.0999999999999992
+T=0.7000000000000002, Entropy = 212.22179753777448, Converged=True, damping=0.4, density N/V=0.4302571981382406, chemical potential=-0.9999999999999991
+T=0.7000000000000002, Entropy = 238.5152465661943, Converged=True, damping=0.4, density N/V=0.4628328146185524, chemical potential=-0.899999999999999
+T=0.7000000000000002, Entropy = 266.69209497953887, Converged=True, damping=0.4, density N/V=0.4942071722456957, chemical potential=-0.7999999999999989
+T=0.7000000000000002, Entropy = 296.6763537511521, Converged=True, damping=0.4, density N/V=0.5242161217366683, chemical potential=-0.6999999999999988
+T=0.7000000000000002, Entropy = 328.3847943999746, Converged=True, damping=0.4, density N/V=0.5527743028252695, chemical potential=-0.5999999999999988
+T=0.7000000000000002, Entropy = 361.7309733195595, Converged=True, damping=0.4, density N/V=0.5798546278288165, chemical potential=-0.49999999999999867
+T=0.7000000000000002, Entropy = 396.62812844524524, Converged=True, damping=0.4, density N/V=0.6054707547900776, chemical potential=-0.3999999999999986
+T=0.7000000000000002, Entropy = 432.9911543692401, Converged=True, damping=0.4, density N/V=0.6296633292334977, chemical potential=-0.2999999999999985
+T=0.7000000000000002, Entropy = 470.7378751045938, Converged=True, damping=0.4, density N/V=0.6524897936576791, chemical potential=-0.1999999999999984
+T=0.7000000000000002, Entropy = 509.78980681453453, Converged=True, damping=0.4, density N/V=0.674017140803214, chemical potential=-0.09999999999999831
+T=0.7000000000000002, Entropy = 550.0725637511603, Converged=True, damping=0.4, density N/V=0.6943169295943283, chemical potential=1.7763568394002505e-15
+T=0.7000000000000002, Entropy = 591.5160230832382, Converged=True, damping=0.4, density N/V=0.7134619897911644, chemical potential=0.10000000000000187
+T=0.7000000000000002, Entropy = 634.0543336431261, Converged=True, damping=0.4, density N/V=0.7315243536109688, chemical potential=0.20000000000000195
+T=0.7000000000000002, Entropy = 677.6258314859496, Converged=True, damping=0.4, density N/V=0.7485741204998405, chemical potential=0.30000000000000204
+T=0.7000000000000002, Entropy = 722.1729125708807, Converged=True, damping=0.4, density N/V=0.7646791361957188, chemical potential=0.40000000000000213
+T=0.7000000000000002, Entropy = 767.6419142002114, Converged=True, damping=0.4, density N/V=0.7799056904178832, chemical potential=0.5000000000000022
+T=0.7000000000000002, Entropy = 813.9830907476052, Converged=True, damping=0.4, density N/V=0.7943213663771129, chemical potential=0.6000000000000023
+T=0.7000000000000002, Entropy = 881.8796061274704, Converged=True, damping=0.4, density N/V=0.9968658152525911, chemical potential=0.7000000000000024
+T=0.7000000000000002, Entropy = 941.0728429870479, Converged=True, damping=0.4, density N/V=1.0133572966055169, chemical potential=0.8000000000000025
+T=0.7000000000000002, Entropy = 1001.12068844814, Converged=True, damping=0.4, density N/V=1.0261618117702227, chemical potential=0.9000000000000026
+T=0.8000000000000003, Entropy = 74.243118102618, Converged=True, damping=0.4, density N/V=0.17656198669825066, chemical potential=-2.0
+T=0.8000000000000003, Entropy = 83.87236275341587, Converged=True, damping=0.4, density N/V=0.19759429575073087, chemical potential=-1.9
+T=0.8000000000000003, Entropy = 94.62854384461836, Converged=True, damping=0.4, density N/V=0.22029962309713394, chemical potential=-1.7999999999999998
+T=0.8000000000000003, Entropy = 106.59455288994747, Converged=True, damping=0.4, density N/V=0.24453857177421703, chemical potential=-1.6999999999999997
+T=0.8000000000000003, Entropy = 119.84432425302171, Converged=True, damping=0.4, density N/V=0.2701037966285283, chemical potential=-1.5999999999999996
+T=0.8000000000000003, Entropy = 134.43957726775938, Converged=True, damping=0.4, density N/V=0.29673096197938215, chemical potential=-1.4999999999999996
+T=0.8000000000000003, Entropy = 150.42734136090098, Converged=True, damping=0.4, density N/V=0.32411773973888913, chemical potential=-1.3999999999999995
+T=0.8000000000000003, Entropy = 167.8385931499383, Converged=True, damping=0.4, density N/V=0.3519472053290488, chemical potential=-1.2999999999999994
+T=0.8000000000000003, Entropy = 186.6881129871904, Converged=True, damping=0.4, density N/V=0.3799110259265952, chemical potential=-1.1999999999999993
+T=0.8000000000000003, Entropy = 206.97543765258916, Converged=True, damping=0.4, density N/V=0.4077283230951042, chemical potential=-1.0999999999999992
+T=0.8000000000000003, Entropy = 228.68662288684547, Converged=True, damping=0.4, density N/V=0.43515804373389927, chemical potential=-0.9999999999999991
+T=0.8000000000000003, Entropy = 251.79646833147962, Converged=True, damping=0.4, density N/V=0.46200463953762017, chemical potential=-0.899999999999999
+T=0.8000000000000003, Entropy = 276.2708853409438, Converged=True, damping=0.4, density N/V=0.4881182100069841, chemical potential=-0.7999999999999989
+T=0.8000000000000003, Entropy = 302.06916706040033, Converged=True, damping=0.4, density N/V=0.5133908709499153, chemical potential=-0.6999999999999988
+T=0.8000000000000003, Entropy = 329.1460119083637, Converged=True, damping=0.4, density N/V=0.5377510696924623, chemical potential=-0.5999999999999988
+T=0.8000000000000003, Entropy = 357.4532312387012, Converged=True, damping=0.4, density N/V=0.5611571926238172, chemical potential=-0.49999999999999867
+T=0.8000000000000003, Entropy = 386.94112928101566, Converged=True, damping=0.4, density N/V=0.5835913449971286, chemical potential=-0.3999999999999986
+T=0.8000000000000003, Entropy = 417.5595784215831, Converged=True, damping=0.4, density N/V=0.6050537980532882, chemical potential=-0.2999999999999985
+T=0.8000000000000003, Entropy = 449.25883021755806, Converged=True, damping=0.4, density N/V=0.6255582969387532, chemical potential=-0.1999999999999984
+T=0.8000000000000003, Entropy = 481.9901080354396, Converged=True, damping=0.4, density N/V=0.6451282668363507, chemical potential=-0.09999999999999831
+T=0.8000000000000003, Entropy = 515.7060258841708, Converged=True, damping=0.4, density N/V=0.6637938472347519, chemical potential=1.7763568394002505e-15
+T=0.8000000000000003, Entropy = 550.3608735981431, Converged=True, damping=0.4, density N/V=0.681589648056799, chemical potential=0.10000000000000187
+T=0.8000000000000003, Entropy = 585.9108037003313, Converged=True, damping=0.4, density N/V=0.6985531659256152, chemical potential=0.20000000000000195
+T=0.8000000000000003, Entropy = 622.3139525472, Converged=True, damping=0.4, density N/V=0.7147238292435226, chemical potential=0.30000000000000204
+T=0.8000000000000003, Entropy = 659.5305322974476, Converged=True, damping=0.4, density N/V=0.730142886103977, chemical potential=0.40000000000000213
+T=0.8000000000000003, Entropy = 697.5229560843871, Converged=True, damping=0.4, density N/V=0.7448551063371536, chemical potential=0.5000000000000022
+T=0.8000000000000003, Entropy = 736.2561789074202, Converged=True, damping=0.4, density N/V=0.7589170261997235, chemical potential=0.6000000000000023
+T=0.8000000000000003, Entropy = 789.9278514664132, Converged=True, damping=0.4, density N/V=0.9529458092672975, chemical potential=0.7000000000000024
+T=0.8000000000000003, Entropy = 839.6474908576009, Converged=True, damping=0.4, density N/V=0.976302076704651, chemical potential=0.8000000000000025
+T=0.8000000000000003, Entropy = 890.4148667323342, Converged=True, damping=0.4, density N/V=0.9940985405464327, chemical potential=0.9000000000000026
+T=0.9000000000000001, Entropy = 93.97582359027032, Converged=True, damping=0.4, density N/V=0.21315576282869655, chemical potential=-2.0
+T=0.9000000000000001, Entropy = 104.19027097825015, Converged=True, damping=0.4, density N/V=0.23318541759500735, chemical potential=-1.9
+T=0.9000000000000001, Entropy = 115.34517489279213, Converged=True, damping=0.4, density N/V=0.2542144044928907, chemical potential=-1.7999999999999998
+T=0.9000000000000001, Entropy = 127.48329261893977, Converged=True, damping=0.4, density N/V=0.2761072325574587, chemical potential=-1.6999999999999997
+T=0.9000000000000001, Entropy = 140.64061576899783, Converged=True, damping=0.4, density N/V=0.29870502924060205, chemical potential=-1.5999999999999996
+T=0.9000000000000001, Entropy = 154.84547261393564, Converged=True, damping=0.4, density N/V=0.3218333667653372, chemical potential=-1.4999999999999996
+T=0.9000000000000001, Entropy = 170.11801723369214, Converged=True, damping=0.4, density N/V=0.3453111325154729, chemical potential=-1.3999999999999995
+T=0.9000000000000001, Entropy = 186.47012746482187, Converged=True, damping=0.4, density N/V=0.36895932602687836, chemical potential=-1.2999999999999994
+T=0.9000000000000001, Entropy = 203.90568271860582, Converged=True, damping=0.4, density N/V=0.39260872128430524, chemical potential=-1.1999999999999993
+T=0.9000000000000001, Entropy = 222.42115326857598, Converged=True, damping=0.4, density N/V=0.416105722513652, chemical potential=-1.0999999999999992
+T=0.9000000000000001, Entropy = 242.00641078869305, Converged=True, damping=0.4, density N/V=0.4393161585186405, chemical potential=-0.9999999999999991
+T=0.9000000000000001, Entropy = 262.64566602837533, Converged=True, damping=0.4, density N/V=0.46212708304235744, chemical potential=-0.899999999999999
+T=0.9000000000000001, Entropy = 284.318449424371, Converged=True, damping=0.4, density N/V=0.4844469137600941, chemical potential=-0.7999999999999989
+T=0.9000000000000001, Entropy = 307.0005682784601, Converged=True, damping=0.4, density N/V=0.5062043474293534, chemical potential=-0.6999999999999988
+T=0.9000000000000001, Entropy = 330.664994396984, Converged=True, damping=0.4, density N/V=0.5273464754490437, chemical potential=-0.5999999999999988
+T=0.9000000000000001, Entropy = 355.2826549089979, Converged=True, damping=0.4, density N/V=0.5478364947203357, chemical potential=-0.49999999999999867
+T=0.9000000000000001, Entropy = 380.8231142796841, Converged=True, damping=0.4, density N/V=0.5676512864996066, chemical potential=-0.3999999999999986
+T=0.9000000000000001, Entropy = 407.25514668710787, Converged=True, damping=0.4, density N/V=0.5867790728067706, chemical potential=-0.2999999999999985
+T=0.9000000000000001, Entropy = 434.54720524246704, Converged=True, damping=0.4, density N/V=0.6052172698068427, chemical potential=-0.1999999999999984
+T=0.9000000000000001, Entropy = 462.6677987661077, Converged=True, damping=0.4, density N/V=0.6229706053088011, chemical potential=-0.09999999999999831
+T=0.9000000000000001, Entropy = 491.5857888950478, Converged=True, damping=0.4, density N/V=0.6400495216453678, chemical potential=1.7763568394002505e-15
+T=0.9000000000000001, Entropy = 521.2706211220599, Converged=True, damping=0.4, density N/V=0.6564688888072743, chemical potential=0.10000000000000187
+T=0.9000000000000001, Entropy = 551.6925039943403, Converged=True, damping=0.4, density N/V=0.6722470364313881, chemical potential=0.20000000000000195
+T=0.9000000000000001, Entropy = 582.8225528512693, Converged=True, damping=0.4, density N/V=0.6874051951076265, chemical potential=0.30000000000000204
+T=0.9000000000000001, Entropy = 614.6329228965834, Converged=True, damping=0.4, density N/V=0.7019676902711774, chemical potential=0.40000000000000213
+T=0.9000000000000001, Entropy = 647.0969904051492, Converged=True, damping=0.4, density N/V=0.7159643057875914, chemical potential=0.5000000000000022
+T=0.9000000000000001, Entropy = 680.18981469265, Converged=True, damping=0.4, density N/V=0.7294432123356152, chemical potential=0.6000000000000023
+T=0.9000000000000001, Entropy = 722.4947048545989, Converged=True, damping=0.4, density N/V=0.9027277975582764, chemical potential=0.7000000000000024
+T=0.9000000000000001, Entropy = 764.590934616386, Converged=True, damping=0.4, density N/V=0.9342123836307189, chemical potential=0.8000000000000025
+T=0.9000000000000001, Entropy = 807.9242800815254, Converged=True, damping=0.4, density N/V=0.9575779845940325, chemical potential=0.9000000000000026

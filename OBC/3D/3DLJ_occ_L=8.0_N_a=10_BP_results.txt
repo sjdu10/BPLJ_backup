@@ -1,0 +1,6 @@
+T=0.5, Entropy = 4383.353870969491, Converged=True, damping=0.3, density N/V=0.9765264151705798
+T=0.6, Entropy = 3652.838042518232, Converged=True, damping=0.3, density N/V=0.9764483679668066
+T=0.7, Entropy = 3131.0961480230035, Converged=True, damping=0.3, density N/V=0.9762854234786366
+T=0.7999999999999999, Entropy = 2739.8748338733717, Converged=True, damping=0.3, density N/V=0.9759977433120158
+T=0.8999999999999999, Entropy = 2435.709334805147, Converged=True, damping=0.3, density N/V=0.9755447858350257
+T=0.9999999999999999, Entropy = 2192.527869650206, Converged=True, damping=0.3, density N/V=0.9748878804633665

@@ -1,0 +1,90 @@
+T=0.5
+Energy Expectation Value: -1.9633644444444398
+Total Magnetization Expectation Value: 0.8801104444444452
+T=0.6206896551724138
+Energy Expectation Value: -1.9636279999999973
+Total Magnetization Expectation Value: 0.8718100000000002
+T=0.7413793103448276
+Energy Expectation Value: -1.9636239999999758
+Total Magnetization Expectation Value: 0.8767046666666664
+T=0.8620689655172413
+Energy Expectation Value: -1.963187555555525
+Total Magnetization Expectation Value: 0.880076888888886
+T=0.9827586206896552
+Energy Expectation Value: -1.9589591111110534
+Total Magnetization Expectation Value: 0.884492222222212
+T=1.103448275862069
+Energy Expectation Value: -1.9516115555554556
+Total Magnetization Expectation Value: 0.8634133333332986
+T=1.2241379310344827
+Energy Expectation Value: -1.948942222222122
+Total Magnetization Expectation Value: 0.8679764444443872
+T=1.3448275862068966
+Energy Expectation Value: -1.9551279999999114
+Total Magnetization Expectation Value: 0.9383393333332851
+T=1.4655172413793105
+Energy Expectation Value: -1.926511111111077
+Total Magnetization Expectation Value: 0.8946026666666376
+T=1.5862068965517242
+Energy Expectation Value: -1.901448888888864
+Total Magnetization Expectation Value: 0.8913133333333055
+T=1.706896551724138
+Energy Expectation Value: -1.8708911111110955
+Total Magnetization Expectation Value: 0.9042442222222007
+T=1.8275862068965518
+Energy Expectation Value: -1.823341777777778
+Total Magnetization Expectation Value: 0.8912937777777689
+T=1.9482758620689655
+Energy Expectation Value: -1.7539875555555657
+Total Magnetization Expectation Value: 0.8586122222222206
+T=2.0689655172413794
+Energy Expectation Value: -1.6685520000000045
+Total Magnetization Expectation Value: 0.8348273333333346
+T=2.189655172413793
+Energy Expectation Value: -1.5384044444444434
+Total Magnetization Expectation Value: 0.7377106666666631
+T=2.3103448275862073
+Energy Expectation Value: -1.3390608888888917
+Total Magnetization Expectation Value: 0.4969075555555576
+T=2.431034482758621
+Energy Expectation Value: -1.1796382222222257
+Total Magnetization Expectation Value: 0.3007677777777765
+T=2.5517241379310347
+Energy Expectation Value: -1.062981333333333
+Total Magnetization Expectation Value: 0.1853486666666669
+T=2.6724137931034484
+Energy Expectation Value: -0.9766048888888926
+Total Magnetization Expectation Value: 0.13347622222222222
+T=2.793103448275862
+Energy Expectation Value: -0.909650666666679
+Total Magnetization Expectation Value: 0.11430333333333333
+T=2.913793103448276
+Energy Expectation Value: -0.8510200000000042
+Total Magnetization Expectation Value: 0.1005311111111105
+T=3.03448275862069
+Energy Expectation Value: -0.8024768888888765
+Total Magnetization Expectation Value: 0.08822199999999919
+T=3.1551724137931036
+Energy Expectation Value: -0.7588604444444194
+Total Magnetization Expectation Value: 0.08032622222222166
+T=3.2758620689655173
+Energy Expectation Value: -0.7183115555555412
+Total Magnetization Expectation Value: 0.0746753333333325
+T=3.396551724137931
+Energy Expectation Value: -0.6850115555555497
+Total Magnetization Expectation Value: 0.06995999999999976
+T=3.5172413793103448
+Energy Expectation Value: -0.6542715555555606
+Total Magnetization Expectation Value: 0.06500133333333266
+T=3.637931034482759
+Energy Expectation Value: -0.6271782222222351
+Total Magnetization Expectation Value: 0.06182622222222198
+T=3.7586206896551726
+Energy Expectation Value: -0.6012453333333486
+Total Magnetization Expectation Value: 0.05952533333333315
+T=3.8793103448275863
+Energy Expectation Value: -0.578256888888906
+Total Magnetization Expectation Value: 0.05716799999999911
+T=4.0
+Energy Expectation Value: -0.5580733333333469
+Total Magnetization Expectation Value: 0.055440888888888186

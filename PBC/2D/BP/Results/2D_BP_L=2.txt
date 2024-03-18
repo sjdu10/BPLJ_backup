@@ -1,0 +1,37 @@
+
+T=3, L=2, N_a=5, n_fixed=10.1
+BP physics_density = 1.3081992828695754
+BP sliced inds density = 0.9494910074290369
+BP sliced averaged surrounding density = 1.1308676186354374
+BP sliced density naive mean = 1.0401793130322372
+BP weighted density = 1.0583169741528773
+T=3, L=2, N_a=5, n_fixed=3.1
+BP physics_density = 1.3082135946014828
+BP sliced inds density = 0.7536523105439554
+BP sliced averaged surrounding density = 1.2634253349476565
+BP sliced density naive mean = 1.008538822745806
+BP weighted density = 1.2022525720192125
+T=3, L=2, N_a=5, n_fixed=1.1
+BP physics_density = 1.3077720524752812
+BP sliced inds density = 0.645914154298223
+BP sliced averaged surrounding density = 1.2964136143354836
+BP sliced density naive mean = 0.9711638843168533
+BP weighted density = 1.2703936359339931
+T=3, L=2, N_a=5, n_fixed=5.1
+BP physics_density = 1.3080690971308335
+BP sliced inds density = 0.7989675622052566
+BP sliced averaged surrounding density = 1.2261632660187265
+BP sliced density naive mean = 1.0125654141119915
+BP weighted density = 1.1407241252560325
+T=3, L=2, N_a=5, n_fixed=5.1
+BP physics_density = 1.3075780459604116
+BP sliced inds density = 0.785946350259741
+BP sliced averaged surrounding density = 1.2230681141110538
+BP sliced density naive mean = 1.0045072321853972
+BP weighted density = 1.135643761340791
+T=3, L=2, N_a=5, n_fixed=7.1
+BP physics_density = 1.3077314092233994
+BP sliced inds density = 0.8470897758071715
+BP sliced averaged surrounding density = 1.1702676776327228
+BP sliced density naive mean = 1.008678726719947
+BP weighted density = 1.0797778651215684

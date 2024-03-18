@@ -1,0 +1,22 @@
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=0.1, Energy = -0.424405572071688, Occupation Number = 0.37498611111111, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=1.1, Energy = -0.6957467660735004, Occupation Number = 0.45777083333333174, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=2.1, Energy = -0.3269857392222459, Occupation Number = 0.34134490740740797, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.1, Energy = -0.06002061002879058, Occupation Number = 0.29670370370370364, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=4.1, Energy = 0.11466245968745288, Occupation Number = 0.297525462962963, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=5.1, Energy = 0.2637169912976284, Occupation Number = 0.3063333333333331, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=6.1, Energy = 0.39908275296911644, Occupation Number = 0.3172962962962968, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=7.1, Energy = 0.5138735499557614, Occupation Number = 0.3280949074074073, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=8.1, Energy = 0.6160051894630132, Occupation Number = 0.3375856481481483, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=9.1, Energy = 0.7210312891848295, Occupation Number = 0.3479513888888896, chemical potential = 0
+L=10, N_a=12, a=0.9090909090909091, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=10.1, Energy = 0.8098430079259973, Occupation Number = 0.3564097222222221, chemical potential = 0

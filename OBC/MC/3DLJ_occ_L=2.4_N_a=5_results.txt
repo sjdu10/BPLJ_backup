@@ -1,0 +1,90 @@
+T=0.1
+Energy Expectation Value: -0.692422597000959
+Occupation Number Expectation Value: 0.23236400000000074
+T=0.6
+Energy Expectation Value: -0.7480061676755062
+Occupation Number Expectation Value: 0.24193599999999799
+T=1.1
+Energy Expectation Value: -0.8870090296175107
+Occupation Number Expectation Value: 0.26239999999999114
+T=1.6
+Energy Expectation Value: -0.9156597486121439
+Occupation Number Expectation Value: 0.26556399999999347
+T=2.1
+Energy Expectation Value: -0.8820724078343268
+Occupation Number Expectation Value: 0.25911999999999596
+T=2.6
+Energy Expectation Value: -0.8162986459439776
+Occupation Number Expectation Value: 0.24772399999999808
+T=3.1
+Energy Expectation Value: -0.7313530056107777
+Occupation Number Expectation Value: 0.2336560000000006
+T=3.6
+Energy Expectation Value: -0.6150368720419918
+Occupation Number Expectation Value: 0.21406800000000226
+T=4.1
+Energy Expectation Value: -0.5128247877499206
+Occupation Number Expectation Value: 0.1972280000000019
+T=4.6
+Energy Expectation Value: -0.3596197462139388
+Occupation Number Expectation Value: 0.17069600000000054
+T=5.1
+Energy Expectation Value: -0.2872579435736245
+Occupation Number Expectation Value: 0.1599079999999998
+T=5.6
+Energy Expectation Value: -0.21772102519631525
+Occupation Number Expectation Value: 0.15162799999999957
+T=6.1
+Energy Expectation Value: -0.15881987021873245
+Occupation Number Expectation Value: 0.14307199999999956
+T=6.6
+Energy Expectation Value: -0.11488637860361199
+Occupation Number Expectation Value: 0.14046799999999893
+T=7.1
+Energy Expectation Value: -0.08220369784959249
+Occupation Number Expectation Value: 0.13859599999999883
+T=7.6
+Energy Expectation Value: -0.04126039934624694
+Occupation Number Expectation Value: 0.1370479999999988
+T=8.1
+Energy Expectation Value: -0.010458970309929897
+Occupation Number Expectation Value: 0.13636399999999899
+T=8.6
+Energy Expectation Value: 0.024707779171903876
+Occupation Number Expectation Value: 0.13542799999999902
+T=9.1
+Energy Expectation Value: 0.059286487164684015
+Occupation Number Expectation Value: 0.13585999999999895
+T=9.6
+Energy Expectation Value: 0.08935382139921919
+Occupation Number Expectation Value: 0.13544799999999876
+T=10.1
+Energy Expectation Value: 0.12730640155815615
+Occupation Number Expectation Value: 0.136143999999999
+T=10.6
+Energy Expectation Value: 0.15744435042210475
+Occupation Number Expectation Value: 0.1358799999999987
+T=11.1
+Energy Expectation Value: 0.18006868130335957
+Occupation Number Expectation Value: 0.1367319999999989
+T=11.6
+Energy Expectation Value: 0.20576093343294005
+Occupation Number Expectation Value: 0.13670799999999886
+T=12.1
+Energy Expectation Value: 0.22517606421469782
+Occupation Number Expectation Value: 0.13750799999999858
+T=12.6
+Energy Expectation Value: 0.2644926339130337
+Occupation Number Expectation Value: 0.13787999999999923
+T=13.1
+Energy Expectation Value: 0.3150452066861842
+Occupation Number Expectation Value: 0.1382479999999988
+T=13.6
+Energy Expectation Value: 0.32779114205503673
+Occupation Number Expectation Value: 0.1389159999999991
+T=14.1
+Energy Expectation Value: 0.35093507228962173
+Occupation Number Expectation Value: 0.13970799999999867
+T=14.6
+Energy Expectation Value: 0.3916054379666486
+Occupation Number Expectation Value: 0.13975999999999889

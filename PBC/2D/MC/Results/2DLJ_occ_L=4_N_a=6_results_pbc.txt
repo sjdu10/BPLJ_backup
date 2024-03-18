@@ -1,0 +1,23 @@
+T=3.0, Energy = -0.2040651295286251, Occupation Number = 0.3163611111111119, Density = 0.7118125000000018, chemical potential = -1.0
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -0.46753219577067096, Occupation Number = 0.350416666666667, Density = 0.7884375000000007, chemical potential = -0.5
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -0.739648498088701, Occupation Number = 0.3765648148148134, Density = 0.8472708333333302, chemical potential = 0.0
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -1.0331641814995745, Occupation Number = 0.40061111111110875, Density = 0.9013749999999947, chemical potential = 0.5
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -1.3304246321257454, Occupation Number = 0.4193796296296247, Density = 0.9436041666666556, chemical potential = 1.0
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -1.6165697903131688, Occupation Number = 0.4326944444444354, Density = 0.9735624999999797, chemical potential = 1.5
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -1.8885224338366855, Occupation Number = 0.4415277777777688, Density = 0.9934374999999798, chemical potential = 2.0
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -2.1689675665232606, Occupation Number = 0.4499259259259145, Density = 1.0123333333333076, chemical potential = 2.5
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -2.456983462125094, Occupation Number = 0.4582314814814695, Density = 1.0310208333333064, chemical potential = 3.0
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -2.707040498878926, Occupation Number = 0.46079629629628366, Density = 1.0367916666666381, chemical potential = 3.5
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -2.982316677629538, Occupation Number = 0.4660462962962828, Density = 1.0486041666666364, chemical potential = 4.0
+L=4, N_a=6, a=0.8, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -3.2326289699035238, Occupation Number = 0.4677685185185072, Density = 1.0524791666666413, chemical potential = 4.5

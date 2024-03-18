@@ -1,0 +1,2 @@
+L=4, N_a=12, a=0.36363636363636365, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.0, Energy = -0.14872607398046359, Occupation Number = 0.0830569444444448, Density = 0.7475125000000031, chemical potential = 0.0

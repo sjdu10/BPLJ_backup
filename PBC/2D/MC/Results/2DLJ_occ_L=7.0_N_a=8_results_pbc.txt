@@ -1,0 +1,22 @@
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=0.1, Energy = -1.140617357421888, Occupation Number = 1.0, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=1.1, Energy = -0.8327740834280086, Occupation Number = 0.8509322916666666, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=2.1, Energy = -0.5284099076895857, Occupation Number = 0.6745833333333333, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=3.1, Energy = -0.43204434935041125, Occupation Number = 0.6101197916666666, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=4.1, Energy = -0.3896243623220489, Occupation Number = 0.5797552083333334, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=5.1, Energy = -0.36600343680675435, Occupation Number = 0.5626614583333334, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=6.1, Energy = -0.35001151383822277, Occupation Number = 0.5508489583333334, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=7.1, Energy = -0.34030084046310277, Occupation Number = 0.5434427083333333, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=8.1, Energy = -0.33248888277318167, Occupation Number = 0.5372552083333333, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=9.1, Energy = -0.3266376757098781, Occupation Number = 0.533265625, chemical potential = 0
+L=7.0, N_a=8, a=1.0, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=10.1, Energy = -0.32184233076010493, Occupation Number = 0.5297083333333333, chemical potential = 0

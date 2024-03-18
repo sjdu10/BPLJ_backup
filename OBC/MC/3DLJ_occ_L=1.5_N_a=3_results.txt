@@ -1,0 +1,161 @@
+T=0.1
+Energy Expectation Value: -0.674963711604707
+Occupation Number Expectation Value: 0.36538518518518154
+T=0.35
+Energy Expectation Value: -1.0850197014357972
+Occupation Number Expectation Value: 0.4408000000000012
+T=0.6
+Energy Expectation Value: -1.3842136441169737
+Occupation Number Expectation Value: 0.5033925925925934
+T=0.8499999999999999
+Energy Expectation Value: -1.3777272983990356
+Occupation Number Expectation Value: 0.5028888888888847
+T=1.0999999999999999
+Energy Expectation Value: -1.3435081009634178
+Occupation Number Expectation Value: 0.48560740740741004
+T=1.3499999999999999
+Energy Expectation Value: -1.3206676758421094
+Occupation Number Expectation Value: 0.48645185185184603
+T=1.5999999999999999
+Energy Expectation Value: -1.2695868148416767
+Occupation Number Expectation Value: 0.47261481481480433
+T=1.8499999999999999
+Energy Expectation Value: -1.2021948767166162
+Occupation Number Expectation Value: 0.4571851851851725
+T=2.0999999999999996
+Energy Expectation Value: -1.1381619675964698
+Occupation Number Expectation Value: 0.44550370370369163
+T=2.3499999999999996
+Energy Expectation Value: -1.0704013692635022
+Occupation Number Expectation Value: 0.43435555555554445
+T=2.5999999999999996
+Energy Expectation Value: -0.9931981117353668
+Occupation Number Expectation Value: 0.4172740740740651
+T=2.8499999999999996
+Energy Expectation Value: -0.9249207641641235
+Occupation Number Expectation Value: 0.4047629629629557
+T=3.0999999999999996
+Energy Expectation Value: -0.8646193293227112
+Occupation Number Expectation Value: 0.39102962962962334
+T=3.3499999999999996
+Energy Expectation Value: -0.8016571140941822
+Occupation Number Expectation Value: 0.37699259259258816
+T=3.5999999999999996
+Energy Expectation Value: -0.748833802809008
+Occupation Number Expectation Value: 0.36235555555555143
+T=3.8499999999999996
+Energy Expectation Value: -0.7027082883269022
+Occupation Number Expectation Value: 0.35155555555555196
+T=4.1
+Energy Expectation Value: -0.6511243176912616
+Occupation Number Expectation Value: 0.3399851851851823
+T=4.349999999999999
+Energy Expectation Value: -0.6115817924223685
+Occupation Number Expectation Value: 0.3288148148148126
+T=4.599999999999999
+Energy Expectation Value: -0.5805742877192616
+Occupation Number Expectation Value: 0.32194814814814493
+T=4.849999999999999
+Energy Expectation Value: -0.5551683300919965
+Occupation Number Expectation Value: 0.31454814814814736
+
+
+T=0.1
+Energy Expectation Value: -0.7932502016807643
+Occupation Number Expectation Value: 0.3920740740740649
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.027695012100632337
+Average Energy Standard Deviation within blocks: 0.2400994681377383
+T=0.1
+Energy Expectation Value: -0.8064166974834851
+Occupation Number Expectation Value: 0.3960444444444336
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.0124722353647604
+Average Energy Standard Deviation within blocks: 0.2772073381218109
+T=5.1
+Energy Expectation Value: -0.5430227442463172
+Occupation Number Expectation Value: 0.31231111111111015
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.03370412693614307
+Average Energy Standard Deviation within blocks: 0.2817137962665113
+
+
+T=0.1
+Energy Expectation Value: -0.8014495256647187
+Occupation Number Expectation Value: 0.39239999999999603
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.006774677499967204
+E_block_avg: [-0.81047488 -0.79152884 -0.79800757 -0.79985312 -0.80738322]
+T=5.1
+Energy Expectation Value: -0.5387560261565676
+Occupation Number Expectation Value: 0.3114370370370345
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.007139253357399077
+E_block_avg: [-0.52812946 -0.54453948 -0.54816336 -0.53866006 -0.53428777]
+T=0.1
+Energy Expectation Value: -0.7572849504556023
+Occupation Number Expectation Value: 0.38868888888892006
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.009209994368777057
+E_block_avg: [-0.76513047 -0.74535383 -0.74765598 -0.74148713 -0.7628104  -0.7636622
+ -0.75194969 -0.76077146 -0.7663391  -0.76768925]
+T=5.1
+Energy Expectation Value: -0.534633068119977
+Occupation Number Expectation Value: 0.31027037037035526
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.007458702310310953
+E_block_avg: [-0.5307133  -0.53600994 -0.53235021 -0.53510064 -0.52462015 -0.53476835
+ -0.5494575  -0.54444815 -0.52381263 -0.53504982]
+T=0.1
+Energy Expectation Value: -0.4679694839892332
+Occupation Number Expectation Value: 0.3333148148148178
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.00020902375309686744
+E_block_avg: [-0.46705837 -0.46801744 -0.46801744 -0.46801744 -0.46801744 -0.46801744
+ -0.46801744 -0.46801744 -0.46801744 -0.46801744 -0.46801744 -0.46801744
+ -0.46801744 -0.46801744 -0.46801744 -0.46801744 -0.46801744 -0.46801744
+ -0.46801744 -0.46801744]
+T=5.1
+Energy Expectation Value: -0.544574024408582
+Occupation Number Expectation Value: 0.31279629629629513
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.03534992118502768
+E_block_avg: [-0.46473282 -0.56175324 -0.55952774 -0.49596429 -0.51801779 -0.60426495
+ -0.55067336 -0.55757383 -0.52821278 -0.58785033 -0.52722271 -0.54016986
+ -0.55713498 -0.58287754 -0.49385735 -0.50749117 -0.54482387 -0.55272737
+ -0.55724682 -0.59935769]
+T=0.1
+Energy Expectation Value: -0.7153662443774015
+Occupation Number Expectation Value: 0.3700740740740766
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.0033427827432883973
+E_block_avg: [-0.7053379  -0.71648051 -0.71648051 -0.71648051 -0.71648051 -0.71648051
+ -0.71648051 -0.71648051 -0.71648051 -0.71648051]
+T=0.1
+Energy Expectation Value: -0.6344975836385331
+Occupation Number Expectation Value: 0.37000000000000255
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.0032119830524625858
+E_block_avg: [-0.62486163 -0.63556824 -0.63556824 -0.63556824 -0.63556824 -0.63556824
+ -0.63556824 -0.63556824 -0.63556824 -0.63556824]
+T=0.1
+Energy Expectation Value: -1.4024825655960191
+Occupation Number Expectation Value: 0.5181481481481418
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.005329153936409425
+E_block_avg: [-1.3864951  -1.40425895 -1.40425895 -1.40425895 -1.40425895 -1.40425895
+ -1.40425895 -1.40425895 -1.40425895 -1.40425895]
+T=0.1
+Energy Expectation Value: -0.6344423678793626
+Occupation Number Expectation Value: 0.37000000000000255
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.003377630329974357
+E_block_avg: [-0.62430948 -0.63556824 -0.63556824 -0.63556824 -0.63556824 -0.63556824
+ -0.63556824 -0.63556824 -0.63556824 -0.63556824]
+T=0.1
+Energy Expectation Value: -0.3234504904041995
+Occupation Number Expectation Value: 0.29599999999999904
+Burn-in: 0
+Energy Standard Deviation between blocks: 0.0013786960922872293
+E_block_avg: [-0.3193144  -0.32391006 -0.32391006 -0.32391006 -0.32391006 -0.32391006
+ -0.32391006 -0.32391006 -0.32391006 -0.32391006]

@@ -1,0 +1,4 @@
+L=6, N_a=6, a=1.2, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=2.0, Energy = -1.651164262272796, Occupation Number = 0.8652666666666637, Density = 0.8652666666666637, chemical potential = 0.0
+L=6, N_a=6, a=1.2, cutoff=3.0, epsilon=1.0, sigma=1.0, uv=False, random_flip=False, burn_in=0
+T=2.0, Energy = -1.6518610629302959, Occupation Number = 0.865499999999996, Density = 0.865499999999996, chemical potential = 0.0

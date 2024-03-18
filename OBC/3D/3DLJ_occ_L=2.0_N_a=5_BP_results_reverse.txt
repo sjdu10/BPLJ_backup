@@ -1,0 +1,40 @@
+T=20.5, Entropy = 34.443236814843694, Converged=True, damping=0.5
+T=20.0, Entropy = 34.45577925004407, Converged=True, damping=0.5
+T=19.5, Entropy = 34.46950999076533, Converged=True, damping=0.5
+T=19.0, Entropy = 34.48455686178669, Converged=True, damping=0.5
+T=18.5, Entropy = 34.50106510808931, Converged=True, damping=0.5
+T=18.0, Entropy = 34.51920018723581, Converged=True, damping=0.5
+T=17.5, Entropy = 34.53915109966561, Converged=True, damping=0.5
+T=17.0, Entropy = 34.561134379437576, Converged=True, damping=0.5
+T=16.5, Entropy = 34.585398900175626, Converged=True, damping=0.5
+T=16.0, Entropy = 34.61223169310492, Converged=True, damping=0.5
+T=15.5, Entropy = 34.64196502937479, Converged=True, damping=0.5
+T=15.0, Entropy = 34.674985091948216, Converged=True, damping=0.5
+T=14.5, Entropy = 34.71174266027251, Converged=True, damping=0.5
+T=14.0, Entropy = 34.75276636271031, Converged=True, damping=0.5
+T=13.5, Entropy = 34.79867923154955, Converged=True, damping=0.5
+T=13.0, Entropy = 34.850219542891814, Converged=True, damping=0.5
+T=12.5, Entropy = 34.90826726895474, Converged=True, damping=0.5
+T=12.0, Entropy = 34.97387795745145, Converged=True, damping=0.5
+T=11.5, Entropy = 35.048326550093314, Converged=True, damping=0.5
+T=11.0, Entropy = 35.13316466531735, Converged=True, damping=0.5
+T=10.5, Entropy = 35.23029636618341, Converged=True, damping=0.5
+T=10.0, Entropy = 35.342079682694475, Converged=True, damping=0.5
+T=9.5, Entropy = 35.471464603225236, Converged=True, damping=0.5
+T=9.0, Entropy = 35.62218364431486, Converged=True, damping=0.5
+T=8.5, Entropy = 35.79901975613287, Converged=True, damping=0.5
+T=8.0, Entropy = 36.00819055273904, Converged=True, damping=0.5
+T=7.5, Entropy = 36.25791197074843, Converged=True, damping=0.5
+T=7.0, Entropy = 36.559246676529874, Converged=True, damping=0.5
+T=6.5, Entropy = 36.92741921691226, Converged=True, damping=0.5
+T=6.0, Entropy = 37.38392509487672, Converged=True, damping=0.5
+T=5.5, Entropy = 37.96004926589653, Converged=True, damping=0.5
+T=5.0, Entropy = 38.7030143629537, Converged=True, damping=0.5
+T=4.5, Entropy = 39.68733134001732, Converged=True, damping=0.5
+T=4.0, Entropy = 41.03718552619194, Converged=True, damping=0.5
+T=3.5, Entropy = 42.97429214999779, Converged=True, damping=0.5
+T=3.0, Entropy = 45.93099345114099, Converged=True, damping=0.5
+T=2.5, Entropy = 50.85423505069606, Converged=True, damping=0.501
+T=2.0, Max_dm=0.37428595066399206, Entropy=60.15405222988346, Not Converged!
+T=1.5, Max_dm=1.222393408388088, Entropy=88.93039694463832, Not Converged!
+T=1.0, Max_dm=1.551872605084656, Entropy=147.14825471276487, Not Converged!

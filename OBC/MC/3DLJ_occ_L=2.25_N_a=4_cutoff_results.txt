@@ -1,0 +1,60 @@
+T=0.1
+Energy Expectation Value: -0.9373273462043868
+Occupation Number Expectation Value: 0.35796875
+T=0.6
+Energy Expectation Value: -1.6693819102742564
+Occupation Number Expectation Value: 0.4687265625
+T=1.1
+Energy Expectation Value: -1.8122782587640305
+Occupation Number Expectation Value: 0.487921875
+T=1.6
+Energy Expectation Value: -1.7607991061290786
+Occupation Number Expectation Value: 0.480375
+T=2.1
+Energy Expectation Value: -1.7101302307955217
+Occupation Number Expectation Value: 0.4704453125
+T=2.6
+Energy Expectation Value: -1.5801419099806293
+Occupation Number Expectation Value: 0.452140625
+T=3.1
+Energy Expectation Value: -1.4321100464468548
+Occupation Number Expectation Value: 0.433078125
+T=3.6
+Energy Expectation Value: -1.1902619457580947
+Occupation Number Expectation Value: 0.4082265625
+T=4.1
+Energy Expectation Value: -0.9074365030748648
+Occupation Number Expectation Value: 0.3826953125
+T=4.6
+Energy Expectation Value: -0.5954924154990113
+Occupation Number Expectation Value: 0.3601640625
+T=5.1
+Energy Expectation Value: -0.3677267197253745
+Occupation Number Expectation Value: 0.3485234375
+T=5.6
+Energy Expectation Value: -0.16827212842503633
+Occupation Number Expectation Value: 0.3408046875
+T=6.1
+Energy Expectation Value: -0.05904787092334869
+Occupation Number Expectation Value: 0.3408671875
+T=6.6
+Energy Expectation Value: 0.0648513904705975
+Occupation Number Expectation Value: 0.3406875
+T=7.1
+Energy Expectation Value: 0.161336304422702
+Occupation Number Expectation Value: 0.343375
+T=7.6
+Energy Expectation Value: 0.22953252170619884
+Occupation Number Expectation Value: 0.3463671875
+T=8.1
+Energy Expectation Value: 0.32832338869755845
+Occupation Number Expectation Value: 0.348828125
+T=8.6
+Energy Expectation Value: 0.3908034808158383
+Occupation Number Expectation Value: 0.3522421875
+T=9.1
+Energy Expectation Value: 0.4505470263314723
+Occupation Number Expectation Value: 0.355703125
+T=9.6
+Energy Expectation Value: 0.4993796658636823
+Occupation Number Expectation Value: 0.35775

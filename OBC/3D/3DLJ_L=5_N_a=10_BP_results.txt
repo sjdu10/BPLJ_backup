@@ -1,0 +1,10 @@
+T=15.0, Entropy = 1015.5651405103586, Damping=0.002
+T=15.5, Entropy = 1000.625316409902, Damping=0.002
+T=16.0, Entropy = 986.7463530910929, Damping=0.002
+T=16.5, Entropy = 973.8263423033303, Damping=0.002
+T=17.0, Entropy = 961.7756961778847, Damping=0.002
+T=17.5, Entropy = 950.5153598780854, Damping=0.002
+T=18.0, Entropy = 939.9753251285924, Damping=0.002
+T=18.5, Entropy = 930.0933872798121, Damping=0.002
+T=19.0, Entropy = 920.8141007117696, Damping=0.002
+T=19.5, Entropy = 912.0878967024485, Damping=0.002

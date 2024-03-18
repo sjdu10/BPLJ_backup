@@ -1,0 +1,57 @@
+T=1.0
+Energy Expectation Value: -0.2676108316544569
+Occupation Number Expectation Value: 0.20713333333332448
+T=2.0
+Energy Expectation Value: -0.1303355805512062
+Occupation Number Expectation Value: 0.19099999999999592
+T=3.0
+Energy Expectation Value: 0.004061835967667853
+Occupation Number Expectation Value: 0.19485185185184728
+T=4.0
+Energy Expectation Value: 0.13072371023161455
+Occupation Number Expectation Value: 0.20393333333332764
+T=5.0
+Energy Expectation Value: 0.25240019661772983
+Occupation Number Expectation Value: 0.2133703703703638
+T=6.0
+Energy Expectation Value: 0.3799027532110127
+Occupation Number Expectation Value: 0.222229629629624
+T=7.0
+Energy Expectation Value: 0.4954530528919325
+Occupation Number Expectation Value: 0.2309851851851795
+T=8.0
+Energy Expectation Value: 0.6094609768734235
+Occupation Number Expectation Value: 0.24008148148147715
+T=9.0
+Energy Expectation Value: 0.7324646976582834
+Occupation Number Expectation Value: 0.24658518518518116
+T=10.0
+Energy Expectation Value: 0.8563190390256666
+Occupation Number Expectation Value: 0.25408888888888465
+T=11.0
+Energy Expectation Value: 0.9683248436946597
+Occupation Number Expectation Value: 0.26051851851851515
+T=12.0
+Energy Expectation Value: 1.090574717573274
+Occupation Number Expectation Value: 0.26722962962962793
+T=13.0
+Energy Expectation Value: 1.1976559112051197
+Occupation Number Expectation Value: 0.27306666666666585
+T=14.0
+Energy Expectation Value: 1.3331340398709854
+Occupation Number Expectation Value: 0.2793629629629615
+T=15.0
+Energy Expectation Value: 1.4117161879209692
+Occupation Number Expectation Value: 0.28429629629629577
+T=16.0
+Energy Expectation Value: 1.5222331762131327
+Occupation Number Expectation Value: 0.28952592592592447
+T=17.0
+Energy Expectation Value: 1.6222274749506729
+Occupation Number Expectation Value: 0.29417037037036853
+T=18.0
+Energy Expectation Value: 1.7292344032329086
+Occupation Number Expectation Value: 0.29931851851851804
+T=19.0
+Energy Expectation Value: 1.8300188759371583
+Occupation Number Expectation Value: 0.303399999999998
