@@ -258,7 +258,7 @@ def bp_2DLJ_model(
     
     Returns:
     ----------
-    entropy_bp: float,
+    free_entropy_bp: float,
         Bethe free entropy computed from the BP messages
     marginal: dict,
         dictionary containing the BP marginal probabilities (used for computing the density)
@@ -318,7 +318,7 @@ def bp_2DLJ_model(
         if reuse:
             messages_cache = messages
 
-        entropy_bp = qbp.compute_free_entropy_from_messages(tn, messages)
+        free_entropy_bp = qbp.compute_free_entropy_from_messages(tn, messages)
 
         density = 0
         if density_compute:
@@ -339,7 +339,7 @@ def bp_2DLJ_model(
             break
 
     if gpu:
-        entropy_bp = float(entropy_bp.cpu().numpy())
+        free_entropy_bp = float(free_entropy_bp.cpu().numpy())
         density = float(density.cpu().numpy())
         tn.apply_to_arrays(lambda x: x.cpu().numpy())
         for key in messages:
@@ -347,7 +347,7 @@ def bp_2DLJ_model(
         for key in marginal:
             marginal[key] = marginal[key].cpu().numpy()
 
-    return entropy_bp, marginal, density, max_dm, messages, tn
+    return free_entropy_bp, marginal, density, max_dm, messages, tn
 
 def bp_1DLJ_model(
     T,
@@ -420,7 +420,7 @@ def bp_1DLJ_model(
     
     Returns:
     ----------
-    entropy_bp: float,
+    free_entropy_bp: float,
         Bethe free entropy computed from the BP messages
     marginal: dict,
         dictionary containing the BP marginal probabilities (used for computing the density)
@@ -478,7 +478,10 @@ def bp_1DLJ_model(
             if reuse:
                 messages_cache = messages
                 
-            entropy_bp = qbp.compute_free_entropy_from_messages(tn, messages)
+            free_entropy_bp = qbp.compute_free_entropy_from_messages(tn, messages)
+            entropy_bp = qbp.compute_entropy_from_messages(tn, messages)
+            free_energy_bp = -free_entropy_bp/beta
+            Energy_bp = free_energy_bp + entropy_bp*T
             
             density = 0
             if density_compute:
@@ -498,7 +501,7 @@ def bp_1DLJ_model(
                 break
             
     if gpu:
-        entropy_bp = float(entropy_bp.cpu().numpy())
+        free_entropy_bp = float(free_entropy_bp.cpu().numpy())
         density = float(density.cpu().numpy())
         tn.apply_to_arrays(lambda x: x.cpu().numpy())
         for key in messages:
@@ -506,7 +509,7 @@ def bp_1DLJ_model(
         for key in marginal:
             marginal[key] = marginal[key].cpu().numpy()
             
-    return entropy_bp, marginal, density, max_dm, messages, tn
+    return free_entropy_bp, marginal, density, max_dm, messages, tn, Energy_bp
                 
             
             
@@ -533,24 +536,24 @@ def compute_density_from_finite_diff_BP(L, N_a, T, mu, epsilon=1e-2):
     mu_plus = mu + epsilon
     mu_minus = mu - epsilon
     beta = 1 / T
-    entropy_bp_plus, _, density_plus, _, _, _ = bp_2DLJ_model(
+    free_entropy_bp_plus, _, density_plus, _, _, _ = bp_2DLJ_model(
         T,
         L,
         N_a,
         chemical_potential=mu_plus,
     )
 
-    entropy_bp_minus, _, density_minus, _, _, _ = bp_2DLJ_model(
+    free_entropy_bp_minus, _, density_minus, _, _, _ = bp_2DLJ_model(
         T,
         L,
         N_a,
         chemical_potential=mu_minus,
     )
 
-    density_finite_diff = (entropy_bp_plus -
-                           entropy_bp_minus) / (2 * epsilon) / beta / L**2
+    density_finite_diff = (free_entropy_bp_plus -
+                           free_entropy_bp_minus) / (2 * epsilon) / beta / L**2
     print(
-        f'entropy_bp_plus = {entropy_bp_plus}, entropy_bp_minus = {entropy_bp_minus}'
+        f'free_entropy_bp_plus = {free_entropy_bp_plus}, free_entropy_bp_minus = {free_entropy_bp_minus}'
     )
 
     return density_finite_diff, density_plus, density_minus
@@ -776,12 +779,12 @@ def compute_density_from_finite_diff_BP_sliced(L, N_a, T, mu, p, epsilon=1e-2):
         parallel=False,
     )
     # print('Finished computing Z_minus')
-    entropy_bp_plus = np.log(Z_plus)
-    entropy_bp_minus = np.log(Z_minus)
-    # print(f'entropy_bp_plus = {entropy_bp_plus}, entropy_bp_minus = {entropy_bp_minus}')
+    free_entropy_bp_plus = np.log(Z_plus)
+    free_entropy_bp_minus = np.log(Z_minus)
+    # print(f'free_entropy_bp_plus = {free_entropy_bp_plus}, free_entropy_bp_minus = {free_entropy_bp_minus}')
 
-    density_finite_diff = (entropy_bp_plus -
-                           entropy_bp_minus) / (2 * epsilon) / beta / L**2
+    density_finite_diff = (free_entropy_bp_plus -
+                           free_entropy_bp_minus) / (2 * epsilon) / beta / L**2
 
     return density_finite_diff
 
@@ -829,7 +832,7 @@ if __name__ == "__main__":
     n = int(N_a**2 * p)
 
     # BP
-    entropy_bp, marginal, physics_density, max_dm, messages, _ = bp_2DLJ_model(
+    free_entropy_bp, marginal, physics_density, max_dm, messages, _ = bp_2DLJ_model(
         T,
         L,
         N_a,
@@ -875,7 +878,7 @@ if __name__ == "__main__":
 
     density, bp_density = slice_BP_density(sliced_BP_partition_dict)
 
-    print(f'\nBP partition function = {np.exp(entropy_bp)}')
+    print(f'\nBP partition function = {np.exp(free_entropy_bp)}')
     print(f'BP sliced total partition function = {total_Z_scliced}')
 
     print(f'\nT={T}, L={L}, N_a={N_a}')
